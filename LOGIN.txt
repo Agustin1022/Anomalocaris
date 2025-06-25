@@ -1,0 +1,7 @@
+Usuários para Login
+
+aluno@sinca
+prof@sinca
+adm@sinca
+
+senha: 123
